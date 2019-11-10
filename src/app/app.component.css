@@ -1,0 +1,12 @@
+div{
+  display:flex;
+}
+.top{
+  justify-content: space-between
+}
+.middle{
+  justify-content: center
+}
+.bottom{
+  justify-content: space-between
+}
